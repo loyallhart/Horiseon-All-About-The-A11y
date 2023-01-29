@@ -45,6 +45,8 @@ Here is a reference image for how the website should look at the end of this pro
 
 **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. The customer did not want us to add a media query for the viewport on this project. 
 
+## Deployment 
 
+Deployed application can be found at https://loyallhart.github.io/Horiseon-All-About-The-A11y/
 
 
